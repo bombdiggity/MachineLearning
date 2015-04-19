@@ -42,7 +42,7 @@ class tron:
             self.W[0] = self.W[0] + node[2]
             self.W[1] = self.W[1] + node[2] * node [1]
             
-            #print "W[0]", self.W[0], "W[1]", self.W[1]
+            print "W[0]", self.W[0], "W[1]", self.W[1]
             
             self.misMatched[:] = []
             
