@@ -2,7 +2,7 @@
 """
 Created on Wed Apr  8 21:52:04 2015
 
-@author: johnsondsouza
+@author: bombdiggity
 """
 import matplotlib.pyplot as plt
 import random
